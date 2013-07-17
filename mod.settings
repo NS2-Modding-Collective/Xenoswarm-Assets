@@ -1,0 +1,6 @@
+name        = "Project Titan Movement Assets"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[Xenoswarm Playtest Assets Mod]=]
+image       = "preview.jpg"
+publish_id = "9935ea5"
